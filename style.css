@@ -1,0 +1,45 @@
+#title {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: darkorange;
+    font-size: 56px;
+    font-weight: bold;
+    text-align: center;
+}
+
+a:link, a:visited {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 52px;
+    color: azure;
+    background-color: orange;
+    text-align: center;
+}
+
+.pic.one {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    color: white;
+    background-color:midnightblue;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+}
